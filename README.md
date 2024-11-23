@@ -1,0 +1,2 @@
+# HomoSapiens_Optimization_Algorithm_Continuous
+A general purpose optimization algorithm to optimize continuous problems
